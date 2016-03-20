@@ -15,7 +15,7 @@ Note that the image will be downloaded to the destination defined by your Chrome
 
 For feature requests and bug reports, submit items to the Github repo: https://github.com/austinjalexander/ogme/issues.
 
-Created by @austinjalexande and @NateGoldman.
+Created by <a href="https://twitter.com/austinjalexande" target="_blank">@austinjalexande</a> and <a href="https://twitter.com/NateGoldman" target="_blank">@NateGoldman</a>.
 
 
 
