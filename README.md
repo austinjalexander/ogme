@@ -1,5 +1,4 @@
-# ogme
-a Chrome extension
+# ogme: a Chrome extension
 
 ![ogme banner](images/og128.png)
 
