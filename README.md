@@ -8,7 +8,7 @@ Download a webpage's `og:image` in just two clicks.
 
 To use:
 
-1. Click the **ogme** Chrome extension icon when visiting any webpage
+1. Click the **ogme** Chrome extension icon ![ogme icon](images/icon.png) when visiting any webpage
 2. Click on the displayed image in the preview box to download it
 
 If no image is defined in the `og:image` `meta` tag, no image preview will appear&emdash;so if it's in your power you should, you know, fix that.  
