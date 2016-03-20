@@ -1,4 +1,6 @@
-# ogme: a Chrome extension ![ogme banner](images/og128.png)
+![ogme banner](images/og128.png)
+
+# ogme: a Chrome extension
 
 ### Download a webpage's `og:image` in just two clicks
 
