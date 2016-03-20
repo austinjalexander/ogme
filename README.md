@@ -11,7 +11,7 @@ To use:
 1. Click the **ogme** Chrome extension icon ![ogme icon](images/og16.png) when visiting any webpage
 2. Click on the displayed image in the preview box to download it
 
-If no image is defined in the `og:image` `meta` tag, no image preview will appear&emdash;so if it's in your power you should, you know, fix that.  
+If no image is defined in the `og:image` `meta` tag, no image preview will appear---so if it's in your power you should, you know, fix that.  
 
 Note that the image will be downloaded to the destination defined by your Chrome settings, usually defaulted to your `Downloads` folder.
 
