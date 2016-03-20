@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
 
-  "name": "ogme",
-  "short_name": "ogme",
+  "name": "og:me",
+  "short_name": "og:me",
   "description": "Download a webpage's og:image in just two clicks",
-  "version": "1.2",
+  "version": "1.4",
   "author": "NiceWrk, LLC",
 
   "browser_action": {
