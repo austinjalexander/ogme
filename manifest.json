@@ -4,7 +4,7 @@
   "name": "ogme",
   "short_name": "ogme",
   "description": "Download the current open tab's og:image",
-  "version": "1.0",
+  "version": "1.1",
   "author": "NiceWrk, LLC",
 
   "browser_action": {
