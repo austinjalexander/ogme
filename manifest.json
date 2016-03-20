@@ -2,13 +2,21 @@
   "manifest_version": 2,
 
   "name": "ogme",
+  "short_name": "ogme",
   "description": "Download the current open tab's og:image",
   "version": "1.0",
   "author": "NiceWrk, LLC",
 
   "browser_action": {
-    "default_icon": "icon.png",
+    "default_icon": "images/icon.png",
     "default_popup": "ogme.html"
+  },
+
+  "icons": {
+    "16": "images/og16.png",
+    "24": "images/og24.png",
+    "48": "images/og48.png",
+    "128": "images/og128.png"
   },
 
   "content_scripts": [
