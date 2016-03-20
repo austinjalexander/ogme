@@ -1,0 +1,45 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>ogme</title>
+  <style type="text/css">
+    #main {
+      width: 300px;
+      margin: auto;
+    }
+    #img-preview {
+      width: 60%;
+      display: block;
+      margin: auto;
+      padding: 20px;
+    }
+    #img-preview:hover {
+      opacity: 0.5;
+      cursor: pointer;
+    }
+    caption, small, #img-url {
+      text-align: center;
+      display: block;
+      margin: auto;
+      outline: 0;
+    }
+    #img-url:link, #img-link:visited {
+      text-decoration: none;
+    }
+    #img-url:hover, #img-link:active {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div id="main">
+    <img id="img-preview" src>
+    <caption>
+      <small>
+        <a id="img-url" href="" target="_blank"></a>
+      </small>
+    </caption>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
