@@ -1,7 +1,7 @@
 # ogme
 a Chrome extension
 
-![ogme banner](images/ogme.png)
+![ogme banner](images/og128.png)
 
 ## Download a webpage's `og:image` in just two clicks.
 
