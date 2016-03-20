@@ -13,7 +13,7 @@ To use:
 
 If no image is defined in the `og:image` `meta` tag, no image preview will appear---so if it's in your power you should, you know, fix that.  
 
-Note that the image will be downloaded to the destination defined by your Chrome settings, usually defaulted to your `Downloads` folder.
+Note that the image will be downloaded to the destination defined by your Chrome settings, usually defaulted to your *Downloads* folder.
 
 For feature requests and bug reports, submit items to the Github repo: https://github.com/austinjalexander/ogme/issues.
 
