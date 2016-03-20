@@ -1,6 +1,6 @@
 # ogme: a Chrome extension ![ogme banner](images/og128.png)
 
-### Download a webpage's `og:image` in just two clicks.
+### Download a webpage's `og:image` in just two clicks
 
 **ogme** lets you download the image that is defined in the `og:image` `meta` tag of a webpages's HTML, in just two clicks. This <a href="https://chrome.google.com/webstore/detail/ogme/kkhddppbaabnelnahdndgjhiddnbchbo" target="_blank">Chrome extension</a> should be particularly useful for social media editors and managers who would like to streamline the process of grabbing the social-optimized image of any web article, where the image can then be uploaded onto another social platform. **ogme** also has the added benefit of allowing you to preview the current `og:image`, so you can see how well-optimized that image is for social sharing.
 

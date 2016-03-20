@@ -3,8 +3,8 @@
 
   "name": "ogme",
   "short_name": "ogme",
-  "description": "Download the current open tab's og:image",
-  "version": "1.1",
+  "description": "Download a webpage’s og:image in just two clicks",
+  "version": "1.2",
   "author": "NiceWrk, LLC",
 
   "browser_action": {
