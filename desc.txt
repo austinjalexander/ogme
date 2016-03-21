@@ -1,13 +1,15 @@
-og:me lets you quickly download the image that is defined in the og:image meta tag of a webpages's HTML, in just two clicks. This Chrome extension should be particularly useful for social media editors and managers who want to streamline the process of grabbing a social-optimized image off any article page, where the image can then be uploaded onto another social platform. og:me shows a preview of the current og:image, so you can see how well-optimized that image is for social sharing.
+og:me lets you quickly download the image defined in the og:image tag of a webpage's HTML.
 
 TO USE:
 
 1) Click the og:me Chrome extension icon when visiting any webpage
 2) Click on the displayed image in the preview box to download it
 
+This Chrome extension should be particularly useful for social media editors and managers who want to streamline the process of grabbing a social-optimized image off any article page so that the image can then be uploaded onto another social platform. og:me also shows a preview of the current og:image, so you can see how well-optimized that image is for social sharing.
+
 If no image is defined in the og:image meta tag, no image preview will appear—so if it's in your power you should, you know, fix that.  
 
-Note that the image will be downloaded to the destination defined by your Chrome settings, which usually defaults to your Downloads folder.
+Note that the image will be downloaded to the destination defined by the user's Chrome settings, which usually defaults to the Downloads folder.
 
 For feature requests and bug reports, submit items to the Github repo: https://github.com/austinjalexander/ogme/issues.
 
