@@ -7,7 +7,7 @@ TO USE:
 
 This Chrome extension should be particularly useful for social media editors and managers who want to streamline the process of grabbing a social-optimized image off any article page so that the image can then be uploaded onto another social platform. og:me also shows a preview of the current og:image, so you can see how well-optimized that image is for social sharing.
 
-If no image is defined in the og:image meta tag, no image preview will appear—so if it's in your power you should, you know, fix that.  
+If no image is defined in the og:image tag, no image preview will appear—so if it's in your power you should, you know, fix that.  
 
 Note that the image will be downloaded to the destination defined by the user's Chrome settings, which usually defaults to the Downloads folder.
 
